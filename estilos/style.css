@@ -592,10 +592,11 @@ footer{
 
     .centerpe img{
         width: 50px;
+        align-items: center;
     }
 
-    footer p{
-        margin-right: 20px;
+    .centerpe p{
+        margin: 0px 20px;
     }
 
     .socialpe a{

@@ -179,7 +179,7 @@ li a:hover{
 .title-sec h1{
     padding: 0px 10px;
     text-align: center;
-    font-size: 8vh;
+    font-size: 6vh;
     font-family: var(--logo-font);
     padding-bottom: 20px;
     letter-spacing: 15px;
@@ -191,11 +191,11 @@ li a:hover{
 
 @media screen and (max-width: 768px){
     .title-sec h1{
-        font-size: 45px;
+        font-size: 3vh;
         text-align: center;
     }
     .title-sec p{
-        line-height: 60px;
+        line-height: 40px;
     }
 
 }

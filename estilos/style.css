@@ -39,7 +39,7 @@ html{
 body{
     background-color: var(--black-color-transp);
     height: 100vh;
-    width: 110vw;
+    width: 100vw;
 }
 
 .main-config{
@@ -54,10 +54,6 @@ a{
 ul{
     list-style: none;
     display: flex;
-}
-
-main img{
-    width: 100vw;
 }
 
 /*------------------------------------------------------------------------------------*/
@@ -168,7 +164,7 @@ li a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 110vw;
+    width: 100vw;
     flex-direction: column;
     box-shadow: 0px 10px 20px var(--shadow-box);
 }
@@ -195,9 +191,8 @@ li a:hover{
 
 @media screen and (max-width: 768px){
     .title-sec h1{
-        font-size: 50px;
+        font-size: 45px;
         text-align: center;
-        padding-left: 30px;
     }
     .title-sec p{
         line-height: 60px;

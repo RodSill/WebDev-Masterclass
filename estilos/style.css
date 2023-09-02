@@ -462,6 +462,10 @@ picture img:hover{
         font-size: 30px;  
     }
 
+    .right2{
+        flex-direction: row;
+    }
+
 }
  
 

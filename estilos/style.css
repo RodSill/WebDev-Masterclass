@@ -198,6 +198,10 @@ li a:hover{
         line-height: 40px;
     }
 
+    .hero-sec{
+        background-attachment: scroll;
+    }
+
 }
 
 /*-------------------------------------------------------------------*/
